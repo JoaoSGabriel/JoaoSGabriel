@@ -3,13 +3,19 @@
 
 
 <h2>Stats</h2>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false&username=JoaoSGabriel" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=3&theme=tokyonight&hide_border=false&username=JoaoSGabriel" height="150" alt="languages graph"  />
-</div>
+<img align="right" src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false&username=JoaoSGabriel" height="175" alt="stats graph"/>
+  
+####This is me
+- 👨🏾‍💻 Passionate about technology and challenges
+- ☕ Enjoying career transition
+- 🖥️ I’m currently working with HTML, CSS, JavaScript
+- 📚 Driven Web Full-Stack Bootcamp student
+- 😁 Fun fact: I'm chemistry graduation and <br>already worked with programming inside chemestry.
 
 
 <h2>Info++</h2>
+<br>
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=3&theme=tokyonight&hide_border=false&username=JoaoSGabriel" height="150" alt="languages graph"  />
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" width="42" alt="html5 logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" width="42" alt="css3 logo"  />
