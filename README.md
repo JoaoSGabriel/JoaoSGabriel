@@ -3,8 +3,8 @@
 
 
 <h2>Stats</h2>
-<br>
-<img align="right" src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false&username=JoaoSGabriel" height="175" alt="stats graph"/>
+<div>
+<img align="right"  src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false&username=JoaoSGabriel" height="175" alt="stats graph"/>
   
 <h3>This is me</h3>
 
@@ -13,19 +13,20 @@
 - 🖥️ I’m currently working with HTML, CSS, JavaScript
 - 📚 Driven Web Full-Stack Bootcamp student
 - 😁 Fun fact: I'm chemistry graduation and <br>already worked with programming inside chemestry.
-
+</div>
 
 <h2>Info++</h2>
-<br>
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=3&theme=tokyonight&hide_border=false&username=JoaoSGabriel" height="150" alt="languages graph"  />
+<h4>I'm currently study the react tecnology for now</h4>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" width="42" alt="html5 logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" width="42" alt="css3 logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" width="42" alt="javascript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" width="42" alt="javascript logo"  />
 </div>
+<br>
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=3&theme=tokyonight&hide_border=false&username=JoaoSGabriel" height="150" alt="languages graph"  />
 
-###
-
+<h3>You can find me by this</h3>
 <div align="left">
   <a href="joaogabriel0359@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
@@ -37,5 +38,3 @@
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
 </div>
-
-###
