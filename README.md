@@ -10,13 +10,13 @@
 
 - 👨🏾‍💻 Passionate about technology and challenges
 - ☕ Enjoying career transition
-- 🖥️ I’m currently working with HTML, CSS, JavaScript
+- 🖥️ I’m currently working with HTML, CSS, JavaScript, ReactJS
 - 📚 Driven Web Full-Stack Bootcamp student
 - 😁 Fun fact: I'm chemistry graduation and <br>already worked with programming inside chemestry.
 </div>
 
 <h2>Info++</h2>
-<h4>I'm currently study the react tecnology for now</h4>
+<h4>I'm currently study Backend interactions by NodeJS with MongoDB</h4>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" width="42" alt="html5 logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" width="42" alt="css3 logo"  />
