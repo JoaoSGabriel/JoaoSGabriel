@@ -10,7 +10,7 @@
 
 - 👨🏾‍💻 Passionate about technology and challenges
 - ☕ Enjoying career transition
-- 🖥️ I’m currently working with NodeJS and MongoDB
+- 🖥️ I’m currently study NodeJS and MongoDB
 - 📚 Driven Web Full-Stack Bootcamp student
 - 😁 Fun fact: I'm chemistry graduation and <br>already worked with programming inside chemestry.
 </div>
