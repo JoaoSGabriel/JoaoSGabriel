@@ -1,36 +1,39 @@
 <h2 align="center">João Pedro Gabriel</h2>
-<h3 align="center">👨🏾‍💻Student and Future Full-Stack Developer✨</h3>
+<h3 align="center">👨🏾‍💻Full-Stack Developer✨</h3>
 
 
-<h2>Stats</h2>
-<div>
-<img align="right"  src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false&username=JoaoSGabriel" height="175" alt="stats graph"/>
-  
-<h3>This is me</h3>
+<h2>This is me</h2>
 
-- 👨🏾‍💻 Passionate about technology and challenges
-- ☕ Enjoying career transition
-- 📚 Driven Web Full-Stack Bootcamp student
-- 😁 Fun fact: I'm chemistry graduation and <br>already worked with programming inside chemestry.
-</div>
+- 👨🏾‍💻 Passionate about technology and challenges;
+- ☕ Enjoying career transition;
+- 📚 Driven Web Full-Stack Bootcamp student;
+- 😁 Fun fact: I'm chemistry graduation and <br>already worked with programming inside chemestry;
+- I'm currently study Docker.
 
 <h2>Info++</h2>
-<h4>I'm currently study Typescript apply on NodeJs</h4>
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" width="42" alt="html5 logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" width="42" alt="css3 logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" width="42" alt="javascript logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" width="42" alt="react logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" width="42" alt="nodejs logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" width="42" alt="mongodb logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" height="30" width="42"/>
-</div>
-<br>
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=3&theme=tokyonight&hide_border=false&username=JoaoSGabriel" height="150" alt="languages graph"  />
 
-<h3>You can find me by this</h3>
-<div align="left">
-  <a href="joaogabriel0359@gmail.com" target="_blank">
+<h3 align="left">Languages and Tools:</h3>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/102863343/211676211-bf90f2d5-795c-417c-bfb2-5f2b23a041fa.png" alt="linux" width="40" height="40"/>
+  <img src="https://user-images.githubusercontent.com/102863343/211672968-46154c84-fc8f-48ce-ace2-6c67bd8b7602.png" alt="html5" width="40" height="40"/>
+  <img src="https://user-images.githubusercontent.com/102863343/211673236-eb871065-f915-4748-91a8-a5a0c08837a6.png" alt="css3" width="40" height="40"/>
+  <img src="https://user-images.githubusercontent.com/102863343/211672578-f7c9e447-ffa7-426c-89fb-cdf4582af618.png" alt="javascript" width="40" height="40"/>
+  <img src="https://user-images.githubusercontent.com/102863343/211673406-560c952d-f652-4562-b18c-a4641fabf228.png" alt="react" width="40" height="40"/>
+  <img src="https://user-images.githubusercontent.com/102863343/211673742-264b9d16-6268-444d-8fa9-8232650d28da.png" alt="nodejs" width="40" height="40"/>
+  <img src="https://user-images.githubusercontent.com/102863343/211673911-b1b06085-d7f3-42fe-86b6-c60459c64c14.png" alt="express" width="40" height="40" />
+  <img src="https://user-images.githubusercontent.com/102863343/211672340-eef19fe6-f168-4914-92d9-bb07d57b8748.png" alt="typescript" width="40" height="40"/> 
+  <img src="https://user-images.githubusercontent.com/102863343/211674263-80f1899f-08be-48f8-b4ef-69e4a0f3da9c.png" alt="jest" width="40" height="40"/>
+  <img src="https://user-images.githubusercontent.com/102863343/211674515-9eba7abb-e061-46ac-8914-bc105905b93e.png" alt="mongodb" width="40" height="40"/>
+  <img src="https://user-images.githubusercontent.com/102863343/211674719-231506cc-8692-4774-a590-d9e9784e2378.png" alt="mysql" width="40" height="40"/>
+  <img src="https://user-images.githubusercontent.com/102863343/211674889-4e96654f-82b6-4a5f-83ec-f03815de11d3.png" alt="postgresql" width="40" height="40"/> 
+  <img src="https://user-images.githubusercontent.com/102863343/211675072-3d55b02a-c73b-4bd8-93bf-bf39d33c776c.png" alt="redis" width="40" height="40"/>
+</p>
+
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=joaosgabriel&show_icons=true&locale=en&layout=compact" alt="joaosgabriel" /></p>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+ <a href="joaogabriel0359@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
   <a href="https://www.linkedin.com/in/joaopsantanagabriel" target="_blank">
@@ -39,4 +42,7 @@
   <a href="https://www.instagram.com/joaos_gabriel/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
-</div>
+</p>
+
+<h3>See my progress!</h3>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=joaosgabriel&show_icons=true&locale=en" alt="joaosgabriel" /></p>
