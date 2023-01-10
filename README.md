@@ -4,11 +4,11 @@
 
 <h2>This is me</h2>
 
-- 👨🏾‍💻 Passionate about technology and challenges;
-- ☕ Enjoying career transition;
-- 📚 Driven Web Full-Stack Bootcamp student;
-- 😁 Fun fact: I'm chemistry graduation and <br>already worked with programming inside chemestry;
-- I'm currently study Docker.
+👨🏾‍💻 Passionate about technology and challenges;<br>
+☕ Enjoying career transition;<br>
+📚 Driven Web Full-Stack Bootcamp student;<br>
+😁 Fun fact: I'm chemistry graduation and<br>already worked with programming inside chemestry;<br>
+📚 I'm currently study Docker.
 
 <h2>Info++</h2>
 
@@ -29,7 +29,10 @@
   <img src="https://user-images.githubusercontent.com/102863343/211675072-3d55b02a-c73b-4bd8-93bf-bf39d33c776c.png" alt="redis" width="40" height="40"/>
 </p>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=joaosgabriel&show_icons=true&locale=en&layout=compact" alt="joaosgabriel" /></p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=joaosgabriel&show_icons=true&theme=omni&locale=en&layout=compact" alt="joaosgabriel" />
+  <img src="https://github-readme-stats.vercel.app/api?username=joaosgabriel&show_icons=true&theme=omni&locale=en" alt="joaosgabriel" />
+</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -43,6 +46,3 @@
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
 </p>
-
-<h3>See my progress!</h3>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=joaosgabriel&show_icons=true&locale=en" alt="joaosgabriel" /></p>
