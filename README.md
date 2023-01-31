@@ -3,18 +3,20 @@
 
 
 <h2>Este sou eu</h2>
-<img src="" alt="profilegif" width="480" height="400" align="right"/>
+<div align="center">
+<img src="" alt="profilegif" width="500" align="right"/>
 
 👨🏾‍💻 Apaixonado por tecnologia e desafios;<br>
 ☕ Aproveitando transição de carreiras;<br>
 📚 Iniciei no bootcamp da Driven Education;<br>
 😁 Fun Fact: eu sou graduado em Química e ja<br> desenvolvi programas para calcular contas na faculdade;<br>
 📚 Estou apredendo sobre Infra (Docker e AWS).
+</div>
 
 <h2>Info++</h2>
 
 <h3 align="left">Linguagens e tecnologias:</h3>
-<p align="center">
+<p align="left">
   <img src="https://user-images.githubusercontent.com/102863343/211676211-bf90f2d5-795c-417c-bfb2-5f2b23a041fa.png" alt="linux" width="40" height="40"/>
   <img src="https://user-images.githubusercontent.com/102863343/211672968-46154c84-fc8f-48ce-ace2-6c67bd8b7602.png" alt="html5" width="40" height="40"/>
   <img src="https://user-images.githubusercontent.com/102863343/211673236-eb871065-f915-4748-91a8-a5a0c08837a6.png" alt="css3" width="40" height="40"/>
@@ -30,7 +32,7 @@
   <img src="https://user-images.githubusercontent.com/102863343/211675072-3d55b02a-c73b-4bd8-93bf-bf39d33c776c.png" alt="redis" width="40" height="40"/>
 </p>
 
-<p align="center">
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=joaosgabriel&show_icons=true&theme=omni&locale=en&layout=compact" alt="joaosgabriel" />
   <img src="https://github-readme-stats.vercel.app/api?username=joaosgabriel&show_icons=true&theme=omni&locale=en" alt="joaosgabriel" />
 </p>
