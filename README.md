@@ -1,5 +1,5 @@
 <h2 align="center">João Pedro Gabriel</h2>
-<h3 align="center">👨🏾‍💻Desenvolvedor fullstack✨</h3>
+<h3 align="center">Desenvolvedor fullstack</h3>
 
 
 <h2>Este sou eu</h2>
@@ -15,6 +15,7 @@
 <br>
 <br>
 <br>
+ <br>
  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=joaosgabriel&show_icons=true&theme=omni&locale=en&layout=compact" alt="joaosgabriel" />
 </div>
 
