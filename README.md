@@ -1,18 +1,18 @@
 <h2 align="center">João Pedro Gabriel</h2>
-<h3 align="center">👨🏾‍💻Full-Stack Developer✨</h3>
+<h3 align="center">👨🏾‍💻Desenvolvedor fullstack✨</h3>
 
 
-<h2>This is me</h2>
+<h2>Este sou eu</h2>
 
-👨🏾‍💻 Passionate about technology and challenges;<br>
-☕ Enjoying career transition;<br>
-📚 Driven Web Full-Stack Bootcamp student;<br>
-😁 Fun fact: I'm chemistry graduation and<br>already worked with programming inside chemestry;<br>
-📚 I'm currently study Docker.
+👨🏾‍💻 Apaixonado por tecnologia e desafios;<br>
+☕ Aproveitando transição de carreiras;<br>
+📚 Iniciei no bootcamp da Driven Education;<br>
+😁 Fun Fact: eu sou graduado em Química e ja<br> desenvolvi programas para calcular contas na faculdade;<br>
+📚 Estou apredendo sobre Infra (Docker e AWS).
 
 <h2>Info++</h2>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Linguagens e tecnologias:</h3>
 <p align="center">
   <img src="https://user-images.githubusercontent.com/102863343/211676211-bf90f2d5-795c-417c-bfb2-5f2b23a041fa.png" alt="linux" width="40" height="40"/>
   <img src="https://user-images.githubusercontent.com/102863343/211672968-46154c84-fc8f-48ce-ace2-6c67bd8b7602.png" alt="html5" width="40" height="40"/>
@@ -34,15 +34,12 @@
   <img src="https://github-readme-stats.vercel.app/api?username=joaosgabriel&show_icons=true&theme=omni&locale=en" alt="joaosgabriel" />
 </p>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Caso queira conversar!</h3>
 <p align="left">
  <a href="joaogabriel0359@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
   <a href="https://www.linkedin.com/in/joaopsantanagabriel" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-  <a href="https://www.instagram.com/joaos_gabriel/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
 </p>
