@@ -3,6 +3,7 @@
 
 
 <h2>Este sou eu</h2>
+<img src="" alt="profilegif" width="480" height="400" align="right"/>
 
 👨🏾‍💻 Apaixonado por tecnologia e desafios;<br>
 ☕ Aproveitando transição de carreiras;<br>
