@@ -4,15 +4,13 @@
 
 <h2>Este sou eu</h2>
 <div align="center">
-<img src="https://user-images.githubusercontent.com/102863343/215628570-28dcd4ac-a36b-41be-82e4-5b58cebc9fd0.gif" alt="profilegif" width="500" align="right"/>
+<img src="https://user-images.githubusercontent.com/102863343/215628570-28dcd4ac-a36b-41be-82e4-5b58cebc9fd0.gif" alt="profilegif" width="450" align="right"/>
 
 👨🏾‍💻 Apaixonado por tecnologia e desafios;<br>
 ☕ Aproveitando transição de carreiras;<br>
 📚 Iniciei no bootcamp da Driven Education;<br>
 😁 Fun Fact: eu sou graduado em Química e ja<br> desenvolvi programas para calcular contas na faculdade;<br>
 📚 Estou apredendo sobre Infra (Docker e AWS).
-<br>
-<br>
 <br>
 <br>
 <br>
