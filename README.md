@@ -20,22 +20,25 @@
 </div>
 
 <h2>Info++</h2>
-
 <h3 align="left">Linguagens e tecnologias:</h3>
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/102863343/211676211-bf90f2d5-795c-417c-bfb2-5f2b23a041fa.png" alt="linux" width="40" height="40"/>
-  <img src="https://user-images.githubusercontent.com/102863343/211672968-46154c84-fc8f-48ce-ace2-6c67bd8b7602.png" alt="html5" width="40" height="40"/>
-  <img src="https://user-images.githubusercontent.com/102863343/211673236-eb871065-f915-4748-91a8-a5a0c08837a6.png" alt="css3" width="40" height="40"/>
-  <img src="https://user-images.githubusercontent.com/102863343/211672578-f7c9e447-ffa7-426c-89fb-cdf4582af618.png" alt="javascript" width="40" height="40"/>
-  <img src="https://user-images.githubusercontent.com/102863343/211673406-560c952d-f652-4562-b18c-a4641fabf228.png" alt="react" width="40" height="40"/>
-  <img src="https://user-images.githubusercontent.com/102863343/211673742-264b9d16-6268-444d-8fa9-8232650d28da.png" alt="nodejs" width="40" height="40"/>
-  <img src="https://user-images.githubusercontent.com/102863343/211673911-b1b06085-d7f3-42fe-86b6-c60459c64c14.png" alt="express" width="40" height="40" />
-  <img src="https://user-images.githubusercontent.com/102863343/211672340-eef19fe6-f168-4914-92d9-bb07d57b8748.png" alt="typescript" width="40" height="40"/> 
-  <img src="https://user-images.githubusercontent.com/102863343/211674263-80f1899f-08be-48f8-b4ef-69e4a0f3da9c.png" alt="jest" width="40" height="40"/>
-  <img src="https://user-images.githubusercontent.com/102863343/211674515-9eba7abb-e061-46ac-8914-bc105905b93e.png" alt="mongodb" width="40" height="40"/>
-  <img src="https://user-images.githubusercontent.com/102863343/211674719-231506cc-8692-4774-a590-d9e9784e2378.png" alt="mysql" width="40" height="40"/>
-  <img src="https://user-images.githubusercontent.com/102863343/211674889-4e96654f-82b6-4a5f-83ec-f03815de11d3.png" alt="postgresql" width="40" height="40"/> 
-  <img src="https://user-images.githubusercontent.com/102863343/211675072-3d55b02a-c73b-4bd8-93bf-bf39d33c776c.png" alt="redis" width="40" height="40"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
+  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
+  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB"/>
+  <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white"/>
+  <img src="https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white"/>
+  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white"/>
+  <img src="https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white"/>
 </p>
 <br>
 <p align="center">
