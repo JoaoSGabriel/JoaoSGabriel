@@ -10,7 +10,7 @@
 ☕ Aproveitando transição de carreiras;<br>
 📚 Iniciei no bootcamp da Driven Education;<br>
 😁 Fun Fact: eu sou graduado em Química e ja<br> desenvolvi programas para calcular contas na faculdade;<br>
-📚 Estou apredendo sobre Infra (Docker e AWS).
+📚 Estou estudando sobre POO, Java|SpringBoot, PHP|Laravel.
 <br>
 <br>
 <br>
