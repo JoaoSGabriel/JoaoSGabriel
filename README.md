@@ -7,10 +7,10 @@
 <img src="https://user-images.githubusercontent.com/102863343/215628570-28dcd4ac-a36b-41be-82e4-5b58cebc9fd0.gif" alt="profilegif" width="450" align="right"/>
 
 👨🏾‍💻 Apaixonado por tecnologia e desafios;<br>
-☕ Aproveitando transição de carreiras;<br>
-📚 Iniciei no bootcamp da Driven Education;<br>
-😁 Fun Fact: eu sou graduado em Química e ja<br> desenvolvi programas para calcular contas na faculdade;<br>
-📚 Estou estudando sobre POO, Java|SpringBoot, PHP|Laravel.
+☕ Aproveitando a nova carreira!<br>
+📚 Terminei a bootcamp da Driven Education;<br>
+😁 Fun Fact: eu sou graduado em Química e já<br> desenvolvi programas para realizar calculos químicos;<br>
+📚 Estou estudando sobre Agile Culture, Testes Automatizados, PHP|Laravel.
 <br>
 <br>
 <br>
@@ -30,9 +30,14 @@
   <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB"/>
   <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white"/>
+  <img src="https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white"/>
   <img src="https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white"/>
   <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"/>
   <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white"/>
   <img src="https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white"/>
   <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"/>
